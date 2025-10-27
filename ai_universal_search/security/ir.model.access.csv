@@ -1,0 +1,5 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_ai_search_engine_user,ai.search.engine.user,model_ai_search_engine,base.group_user,1,1,1,0
+access_ai_search_engine_system,ai.search.engine.system,model_ai_search_engine,base.group_system,1,1,1,1
+access_ai_search_favorite_user,ai.search.favorite.user,model_ai_search_favorite,base.group_user,1,1,1,1
+access_ai_search_report_user,ai.search.report.user,model_ai_search_report,base.group_user,1,1,1,1

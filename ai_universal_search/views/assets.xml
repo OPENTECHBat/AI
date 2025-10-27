@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+    <!-- Assets are now defined in the manifest file only. This file is kept for backward compatibility but is not used. -->
+</odoo>
